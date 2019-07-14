@@ -39,6 +39,10 @@ const styles = theme => ({
       duration: theme.transitions.duration.enteringScreen,
     }),
   },
+
+  hide: {
+    display: 'none',
+  },
   menuButton: {
     marginLeft: 12,
     marginRight: 20,
