@@ -1,4 +1,3 @@
-
 export default [
   {
     paletteName: "Material UI Colors",
@@ -243,4 +242,3 @@ export default [
     ]
   }
 ];
-
